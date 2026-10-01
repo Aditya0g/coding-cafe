@@ -23,3 +23,20 @@ Git printed a line like `[main (root-commit) abc1234] Lab work so far`, followed
 
 ## Question 8
 The first seven characters are the short **commit hash** (SHA), for example `abc1234`. It is a unique ID for that commit, used to refer to it, for example in `git show`, `git diff`, `git checkout` or `git revert`.
+Question 9
+The four steps of the Git loop are modifying or creating a file (edit), checking the repository state with git status, tracking the changes with git add (stage), and permanently saving the snapshot to your history with git commit.
+
+Question 10
+README.md gets a special name and is placed at the root of the project because it serves as the main instruction manual for your code. Platforms like GitHub are programmed to automatically detect this specific file and display its contents on the repository's front page.
+
+Question 11
+The gh auth login command securely authenticated your terminal with GitHub and saved an authentication token locally on your machine. Git uses this saved token to automatically verify your identity in the background, skipping the need for manual password entry.
+
+Question 12
+The contents of the README.md file are showing on the front page. GitHub automatically renders this file when anyone visits the repository to instantly provide them with a summary and context of what the project is about.
+
+Question 13
+No, pushing did not change your local history in any way. Pushing simply uploads a copy of your local commit history to the remote GitHub server so that the online repository matches what you already have on your computer.
+
+Question 14
+A private repository physically exists on GitHub's servers and is safely backed up online, but its access is strictly locked down to you and specific people you invite (like your TAs). If a repository doesn't exist on GitHub at all, it only lives locally on your personal computer's hard drive and cannot be accessed or shared over the internet.
