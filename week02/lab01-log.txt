@@ -1,0 +1,16 @@
+  188  man ls
+  189  man ls
+  190  ls -h
+  191  man man
+  192  man ls -h
+  193  cd cod
+  194  cd ..
+  195  cd coding-cafe/README.md
+  196  history
+  197  cat history
+  198  history
+  199  cat | grep 1
+  200  history | grep 1
+  201  python3
+  202  history > week02/lab01-log.txt\n
+  203  cd coding-cafe
